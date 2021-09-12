@@ -1,0 +1,23 @@
+{
+  "name": "@bilions/thailand-address",
+  "version": "1.0.0",
+  "description": "Thailand Address in English and Thailand Translation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bilions-Integration/thailand-address.git"
+  },
+  "keywords": [
+    "thailand",
+    "address"
+  ],
+  "author": "necessarylion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilions-Integration/thailand-address/issues"
+  },
+  "homepage": "https://github.com/Bilions-Integration/thailand-address#readme"
+}
