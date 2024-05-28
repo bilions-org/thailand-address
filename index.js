@@ -2,7 +2,7 @@ let provinces = require('./address/provinces.json')
 let districts = require('./address/districts.json')
 let subDistricts = require('./address/sub_districts.json')
 
-app = {}
+const app = {}
 
 app.getProvinces = () => {
   return provinces
