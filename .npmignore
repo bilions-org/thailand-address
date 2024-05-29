@@ -1,0 +1,7 @@
+src
+image.png
+package-lock.json
+node_modules
+.github
+__tests__
+!dist
