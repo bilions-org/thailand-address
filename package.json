@@ -1,6 +1,6 @@
 {
   "name": "@bilions/thailand-address",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Thailand Address in English and Thailand Translation",
   "main": "dist/index.js",
   "scripts": {
